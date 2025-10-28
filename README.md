@@ -68,4 +68,5 @@ suitable for real-world applications and as a strong portfolio project for freel
 *Arshia Estineh*  
 
 - 📧 Email: [Arshiaestineh2005@icloud.com](mailto:Arshiaestineh2005@icloud.com)  
-- 💻 GitHub: [Arshiaestineh2563](https://github.com/Arshiaestineh2563)
+
+- 💻 GitHub: [Arshia-estineh2563](https://github.com/Arshia-estineh2563)
