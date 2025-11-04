@@ -4,7 +4,8 @@ This project builds and optimizes machine learning models to predict survival on
 It demonstrates a complete *end-to-end Data Science workflow*, including data preprocessing, exploratory data analysis,  
 model training, hyperparameter tuning, evaluation, and visualization of results.  
 
----
+----
+
 
 ## 📊 Project Workflow
 
@@ -71,4 +72,5 @@ suitable for real-world applications and as a strong portfolio project for freel
 - 📧 Email: [Arshiaestineh2005@icloud.com](mailto:Arshiaestineh2005@icloud.com)  
 
 - 💻 GitHub: [Arshia-estineh2563](https://github.com/Arshia-estineh2563)
+
 
