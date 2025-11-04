@@ -48,7 +48,8 @@ model training, hyperparameter tuning, evaluation, and visualization of results.
      - Handling class imbalance with SMOTE or class weighting.
      - Deployment as an API or interactive web app (Flask, FastAPI, Streamlit).
 
----
+----
+
 
 ## 📈 Key Visualizations
 - Correlation Heatmap of Titanic dataset.
@@ -70,3 +71,4 @@ suitable for real-world applications and as a strong portfolio project for freel
 - 📧 Email: [Arshiaestineh2005@icloud.com](mailto:Arshiaestineh2005@icloud.com)  
 
 - 💻 GitHub: [Arshia-estineh2563](https://github.com/Arshia-estineh2563)
+
